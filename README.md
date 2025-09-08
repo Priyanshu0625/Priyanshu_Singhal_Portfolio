@@ -1,6 +1,6 @@
-🚀 Check out my live portfolio: https://gauravs12.vercel.app — showcasing my work in Data Science, Machine Learning, and AI projects.
+🚀 Check out my live portfolio:  — showcasing my work in Data Science, Machine Learning, and AI projects.
 
-# 💼 Gaurav's Portfolio
+# 💼 Priyanshu's Portfolio
 
 
 Welcome to the source code repository for my personal developer portfolio. This site showcases my projects, skills, resume, and contact information in a modern and responsive design.
