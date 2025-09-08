@@ -1,4 +1,4 @@
-🚀 Check out my live portfolio:  — showcasing my work in Data Science, Machine Learning, and AI projects.
+🚀 Check out my live portfolio:https://priyanshu-singhal-portfolio-zf94.vercel.app/  — showcasing my work in Data Science, Machine Learning, and AI projects.
 
 # 💼 Priyanshu's Portfolio
 
